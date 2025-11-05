@@ -1,2 +1,2 @@
-# Desafio-Santander-Dio-CyberSeguran-a
+# Desafio-Santander-Dio-CyberSeguranca
 Desafio Simulando um Ataque de Brute Force de Senhas com Medusa e Kali Linux
